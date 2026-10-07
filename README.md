@@ -74,7 +74,7 @@ The A/B instrument is manually selected demonstration mode, not randomized exper
 - [Leaflet 1.9.4](https://leafletjs.com/): BSD-2-Clause.
 - [CARTO](https://carto.com/attributions) Voyager tiles and [OpenStreetMap contributors](https://www.openstreetmap.org/copyright): basemap attribution displayed on the map.
 
-Weather symbols are district-label decorations at approximate bounding-box centers, not monitoring stations. Rainfall totals are illustrative 24-hour values, not observations or forecasts, and do not generate warnings. The repository uses the verified public Voyager tile endpoint without embedding the personal key supplied during development.
+Weather symbols are district-label decorations at approximate bounding-box centers, not monitoring stations. Rainfall totals are illustrative 24-hour values, not observations or forecasts, and do not generate warnings. The map uses the supplied CARTO Voyager basemap key. This key is visible in browser tile requests and application source; it is a client-side map key, not an LLM or backend credential.
 
 ## Deployment
 
