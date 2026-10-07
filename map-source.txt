@@ -1,0 +1,4 @@
+District boundaries: BBS / OCHA ROAP, via geoBoundaries gbOpen BGD ADM2. Geometry represents 2020. CC BY 3.0 IGO. https://www.geoboundaries.org/api/current/gbOpen/BGD/ADM2/
+Basemap: CARTO Voyager tiles, OpenStreetMap contributors. Attribution included on map.
+District labels are approximate bounding-box centers; not meteorological stations. Rainfall values are synthetic illustrative 24-hour totals, not observations or forecasts.
+Leaflet 1.9.4 BSD-2-Clause. https://leafletjs.com
